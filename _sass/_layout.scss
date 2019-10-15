@@ -1,0 +1,52 @@
+$mobile-width: 767px;
+$narrow-phone-width: 400px;
+
+$brown: #795548;
+$green: #4caf50;
+
+a {
+  text-decoration: none;
+  color: $green;
+  &:hover {
+    text-decoration: underline;
+    color: $brown;
+  }
+}
+
+a:not([href]) {
+  color: #aaa;
+  &:hover {
+    color: #aaa;
+    text-decoration: none;
+  }
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 15px;
+}
+
+.nav-menu a {
+  margin-right: 1em;
+}
+
+h1, h3 {
+  color: $brown;
+}
+
+ul {
+  margin-left: 0;
+  color: #555;
+}
