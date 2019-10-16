@@ -11,6 +11,12 @@ a {
     text-decoration: underline;
     color: $brown;
   }
+
+  &.active {
+    color: $brown;
+    text-decoration: none;
+    pointer-events: none;
+  }
 }
 
 a:not([href]) {
