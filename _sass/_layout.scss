@@ -46,7 +46,14 @@ h1, h3 {
   color: $brown;
 }
 
+h1 {
+  line-height: 1.25;
+  margin-bottom: 10px;
+}
+
+.avoidwrap {
+  display: inline-block;
+}
 ul {
-  margin-left: 0;
-  color: #555;
+  margin-left: 18px;
 }
