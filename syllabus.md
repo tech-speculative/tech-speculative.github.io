@@ -108,14 +108,14 @@ _Required materials_
 
 
 *   Ishiguro, Kazuo. 2005. _Never Let Me Go_.
-*   Newton, Casey. 2019. “The Secret Lives of Facebook Moderators in America.” The Verge. February 25, 2019. [https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona).
+*   Excerpt from Roberts, Sarah T. 2019. _Behind the Screen: Content Moderation in the Shadows of Social Media_. Yale University Press.
 *   Crawford, Kate, and Vladan Joler. 2018. “Anatomy of an AI System.” 2018. [https://anatomyof.ai/](https://anatomyof.ai/).
 
 _Supplemental materials_
 
 
 
-*   Excerpt from Roberts, Sarah T. 2019. _Behind the Screen: Content Moderation in the Shadows of Social Media_. Yale University Press.
+*   Newton, Casey. 2019. “The Secret Lives of Facebook Moderators in America.” The Verge. February 25, 2019. [https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona).
 *   Irani, Lilly C., and M. Six Silberman. 2013. “Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk.” _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI ’13_. [https://doi.org/10.1145/2470654.2470742](https://doi.org/10.1145/2470654.2470742).
 *   Excerpt from Hicks, Marie. 2018. _Programmed Inequality : How Britain Discarded Women Technologists and Lost Its Edge in Computing_. Cambridge, (Mass.): The MIT Press.
 
