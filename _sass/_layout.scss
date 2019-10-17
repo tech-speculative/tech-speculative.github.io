@@ -20,10 +20,9 @@ a {
 }
 
 a:not([href]) {
-  color: #aaa;
+  text-decoration: line-through;
   &:hover {
-    color: #aaa;
-    text-decoration: none;
+    color: $green;
   }
 }
 
