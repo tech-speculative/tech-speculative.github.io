@@ -166,7 +166,7 @@ _Required materials_
 
 
 
-*   Park, Sunyung, and Sang Joon Park, eds. 2019. “Readymade Bodhisattva.”
+*   Park, Seonghwan. 2019. “Readymade Bodhisattva.”
 *   Excerpt from Jerng, Mark C. 2018. _Racial Worldmaking: The Power of Popular Fiction_. New York: Fordham University Press.
 *   Angwin, Julia, Jeff Larson, Surya Mattu, and Lauren Kirchner. 2016. “Machine Bias.” ProPublica. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing).
 *   ‌Gilliard, Chris. 2019. “Friction-Free Racism.” Real Life. October 15, 2019. [https://reallifemag.com/friction-free-racism/](https://reallifemag.com/friction-free-racism/).
