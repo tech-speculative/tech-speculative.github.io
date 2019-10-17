@@ -3,7 +3,7 @@
 
 # Syllabus
 
-_This syllabus is a living document, and is subject to change._
+_This syllabus is subject to change prior to the start of term._
 
 ### Unit 1: AI in Code and Culture
 

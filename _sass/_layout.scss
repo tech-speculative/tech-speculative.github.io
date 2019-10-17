@@ -63,3 +63,11 @@ h1 {
 ul {
   margin-left: 18px;
 }
+
+table, tbody, tr {
+  width: 100%;
+}
+
+td:first-child {
+  width: 35%;
+}
