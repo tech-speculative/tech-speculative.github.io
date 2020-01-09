@@ -11,19 +11,14 @@ _This syllabus is subject to change prior to the start of term._
 
 _Required materials_
 
-
-
-*   Čapek, Karel. 1921. _Rossum’s Universal Robots._
-*   Hardt, Moritz. 2014. “How Big Data Is Unfair.” Medium. September 26, 2014. [https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de).
-*   Galloway, Alexander. 2019. “Are Algorithms Biased?” cultureandcommunication.org. January 26, 2019. [http://cultureandcommunication.org/galloway/are-algorithms-biased](http://cultureandcommunication.org/galloway/are-algorithms-biased).
-*   Oziewicz, Marek. 2017. “Speculative Fiction.” _Oxford Research Encyclopedia of Literature_, March. [https://doi.org/10.1093/acrefore/9780190201098.013.78](https://doi.org/10.1093/acrefore/9780190201098.013.78).
-*   Goldsmith, Judy and Nicholas Mattei. 2011. “Science Fiction as an Introduction to AI Research.” [https://www.cs.uky.edu/~goldsmit/papers/sf.pdf](https://www.cs.uky.edu/~goldsmit/papers/sf.pdf) 
-
-_Supplemental materials_
-
-
-
+*   Oziewicz, Marek. 2017. pp. 1-9, 15-21 from “Speculative Fiction.” _Oxford Research Encyclopedia of Literature_, March. [https://doi.org/10.1093/acrefore/9780190201098.013.78](https://doi.org/10.1093/acrefore/9780190201098.013.78). PDF on Canvas.
 *   Ford, Paul. 2015. “What Is Code?” Bloomberg.com. June 11, 2015. [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
+*   Galloway, Alexander. 2019. “Are Algorithms Biased?” cultureandcommunication.org. January 26, 2019. [http://cultureandcommunication.org/galloway/are-algorithms-biased](http://cultureandcommunication.org/galloway/are-algorithms-biased).
+
+
+_Optional materials_
+
+*   Hardt, Moritz. 2014. “How Big Data Is Unfair.” Medium. September 26, 2014. [https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de).
 *   Dickey, Megan Rose. 2017. “Algorithmic Accountability.” TechCrunch. April 30, 2017. [https://techcrunch.com/2017/04/30/algorithmic-accountability/](https://techcrunch.com/2017/04/30/algorithmic-accountability/).
 *   Excerpt from Dunne, Anthony, and Fiona Raby. 2013. _Speculative Everything : Design, Fiction, and Social Dreaming_. Cambridge, Massachusetts ; London, England: The MIT Press.
 
@@ -39,7 +34,7 @@ _Required materials_
 *   Harris, Jonathan. 2013. “Data Will Help Us.” number27.org. 2013. [http://datawillhelp.us/](http://datawillhelp.us/).
 *   Onuoha, Mimi. 2014. “The Library of Missing Datasets.” 2014. [http://mimionuoha.com/the-library-of-missing-datasets/](http://mimionuoha.com/the-library-of-missing-datasets/).
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -56,7 +51,7 @@ _Required materials_
 *   Jemisin, N. K. 2018. “The Ones Who Stay and Fight” in _How Long ’til Black Future Month?_
 *   Keyes, Os, Jevan Hutson, and Meredith Durbin. 2019. “A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry.” _Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems  - CHI EA ’19_. [https://doi.org/10.1145/3290607.3310433](https://doi.org/10.1145/3290607.3310433).
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -75,7 +70,7 @@ _Required materials_
 *   Carr, David. 2013. “Giving Viewers What They Want.” The New York Times, February 25, 2013. [https://www.nytimes.com/2013/02/25/business/media/for-house-of-cards-using-big-data-to-guarantee-its-popularity.html](https://www.nytimes.com/2013/02/25/business/media/for-house-of-cards-using-big-data-to-guarantee-its-popularity.html).
 *   Excerpt from Jakober, Marie. 2008. “The Continuum of Meaning: A Reflection on Speculative Fiction and Society.” In _The Influence of Imagination: Essays on Science Fiction and Fantasy as Agents of Social Change_. Jefferson, N.C.: Mcfarland & Co.
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -93,7 +88,7 @@ _Required materials_
 *   Burrington, Ingrid. 2018. “A Non-Exhaustive Taxonomy of Tools of Data-Driven Policing.” Urban Omnibus. November 28, 2018. [https://urbanomnibus.net/2018/06/non-exhaustive-taxonomy-tools-data-driven-policing/](https://urbanomnibus.net/2018/06/non-exhaustive-taxonomy-tools-data-driven-policing/).
 *   Senior, Jennifer. 2019. “You’re Not Alone When You’re on Google.” The New York Times, May 17, 2019. [https://www.nytimes.com/2019/05/17/opinion/sunday/google-privacy.html](https://www.nytimes.com/2019/05/17/opinion/sunday/google-privacy.html).
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -111,7 +106,7 @@ _Required materials_
 *   Excerpt from Roberts, Sarah T. 2019. _Behind the Screen: Content Moderation in the Shadows of Social Media_. Yale University Press.
 *   Crawford, Kate, and Vladan Joler. 2018. “Anatomy of an AI System.” 2018. [https://anatomyof.ai/](https://anatomyof.ai/).
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -130,7 +125,7 @@ _Required materials_
 *   Taylor, Astra. 2019. “The Automation Charade.” Logic Magazine. July 22, 2019. [https://logicmag.io/failure/the-automation-charade/](https://logicmag.io/failure/the-automation-charade/).
 *   O’Connell, Mark. 2016. “Letter of Recommendation: The Useless Machine.” The New York Times, August 31, 2016. [https://www.nytimes.com/2016/09/04/magazine/letter-of-recommendation-the-useless-machine.html](https://www.nytimes.com/2016/09/04/magazine/letter-of-recommendation-the-useless-machine.html).
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -151,7 +146,7 @@ _Required materials_
 *   Geffen, Sasha. 2019. “Spoken For.” Real Life. 2019. [https://reallifemag.com/spoken-for/](https://reallifemag.com/spoken-for/).
 *   Keyes, Os. 2018. “The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition.” _Proceedings of the ACM on Human-Computer Interaction 2 (CSCW): 1–22_. [https://doi.org/10.1145/3274357](https://doi.org/10.1145/3274357).‌
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -174,7 +169,7 @@ _Required materials_
 *   Excerpt from Safiya Umoja Noble. 2018. _Algorithms of Oppression: Data Discrimination in the Age of Google_. New York: New York University Press.
 *   Excerpt from Ruha Benjamin. 2019. _Race After Technology: Abolitionist Tools for the New Jim Code_. Polity Books.
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -190,7 +185,7 @@ _Required materials_
 *   Ludwig, Sarah. 2015. “Credit Scores in America Perpetuate Racial Injustice. Here’s How.” The Guardian. October 13, 2015. [https://www.theguardian.com/commentisfree/2015/oct/13/your-credit-score-is-racist-heres-why](https://www.theguardian.com/commentisfree/2015/oct/13/your-credit-score-is-racist-heres-why).
 *   Clifton, Brian, Sam Lavigne, and Francis Tseng. 2017. “White Collar Crime Risk Zones.” thenewinquiry.com. [https://whitecollar.thenewinquiry.com/](https://whitecollar.thenewinquiry.com/).
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -209,7 +204,7 @@ _Required materials_
 *   Horning, Rob. 2017. “Sick of Myself.” Real Life. May 17, 2017. [https://reallifemag.com/sick-of-myself/](https://reallifemag.com/sick-of-myself/).
 *   Chiang, Ted. 2013. “The Truth of Fact, the Truth of Feeling.”‌
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -227,7 +222,7 @@ _Required materials_
 *   Cole, Samantha. 2018. “Deepfakes Were Created As a Way to Own Women’s Bodies—We Can’t Forget That.” Vice. June 18, 2018. [https://broadly.vice.com/en_us/article/nekqmd/deepfake-porn-origins-sexism-reddit-v25n2](https://broadly.vice.com/en_us/article/nekqmd/deepfake-porn-origins-sexism-reddit-v25n2).
 *   Brandom, Russell. 2019. “Deepfake Propaganda Is Not a Real Problem.” The Verge. March 5, 2019. [https://www.theverge.com/2019/3/5/18251736/deepfake-propaganda-misinformation-troll-video-hoax](https://www.theverge.com/2019/3/5/18251736/deepfake-propaganda-misinformation-troll-video-hoax).
 
-_Supplemental materials_
+_Optional materials_
 
 
 
@@ -244,7 +239,7 @@ _Required materials_
 *   boyd, danah. 2018. “You Think You Want Media Literacy… Do You?” [http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html](http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html).
 *   Excerpt from Dunne, Anthony, and Fiona Raby. 2013. _Speculative Everything : Design, Fiction, and Social Dreaming_. Cambridge, Massachusetts; London, England: The MIT Press.
 
-_Supplemental materials_
+_Optional materials_
 
 
 
