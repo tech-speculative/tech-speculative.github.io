@@ -40,6 +40,7 @@ _Optional materials_
 
 
 **Week 3 (January 30) \| Is Fairness the Same as Justice?**
+
 Guest lecture: Os Keyes
 
 
