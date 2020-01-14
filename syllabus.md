@@ -156,7 +156,7 @@ _Optional materials_
 
 _Required materials_
 
-*   Jonze, Spike. 2013. _Her._
+*   Jonze, Spike. 2013. _Her._ (Will watch an excerpt in class.)
 *   Edmonds, Samantha. 2019. “Reading Feminist Futurism in the Age of the ‘Female’ Virtual Assistant.” Literary Hub. January 3, 2019. [https://lithub.com/reading-feminist-futurism-in-the-age-of-the-female-virtual-assistant/](https://lithub.com/reading-feminist-futurism-in-the-age-of-the-female-virtual-assistant/).
 *   Geffen, Sasha. 2019. “Spoken For.” Real Life. 2019. [https://reallifemag.com/spoken-for/](https://reallifemag.com/spoken-for/).
 *   Keyes, Os. 2018. “The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition.” _Proceedings of the ACM on Human-Computer Interaction 2 (CSCW): 1–22_. [https://doi.org/10.1145/3274357](https://doi.org/10.1145/3274357).‌
@@ -191,7 +191,7 @@ _Optional materials_
 
 _Required materials_
 
-*   Netflix. _Black Mirror_. “Nosedive” (S3E1).
+*   Netflix. _Black Mirror_. “Nosedive” (S3E1). In-class viewing.
 *   Chiang, Ted. 2013. “The Truth of Fact, the Truth of Feeling.”‌
 *   Horning, Rob. 2017. “Sick of Myself.” Real Life. May 17, 2017. [https://reallifemag.com/sick-of-myself/](https://reallifemag.com/sick-of-myself/).
 *   Matias, J. Nathan. 2017. “The Real Name Fallacy.” https://coralproject.net/blog/the-real-name-fallacy/
@@ -217,7 +217,7 @@ _Optional materials_
 *   Brandom, Russell. 2019. “Deepfake Propaganda Is Not a Real Problem.” The Verge. March 5, 2019. [https://www.theverge.com/2019/3/5/18251736/deepfake-propaganda-misinformation-troll-video-hoax](https://www.theverge.com/2019/3/5/18251736/deepfake-propaganda-misinformation-troll-video-hoax).
 *   Excerpt from Hayles, N. Katherine. 2010. _How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics_. Chicago: Univ. of Chicago Press.
 
-**Week 13 (April 23) \| Post-Truth**
+**Week 13 (April 23) \| Machine Yearning**
 
 _Required materials_
 
@@ -226,10 +226,8 @@ _Required materials_
 *   Hall, Louisa. 2015. _Speak_. 
 *   Hong, Sun-ha. 2019. “Smart Machines & Enlightenment Dreams.” March 26, 2019. [https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/](https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/).
 *   boyd, danah. 2018. “You Think You Want Media Literacy… Do You?” [http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html](http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html).
-*   Excerpt from Dunne, Anthony, and Fiona Raby. 2013. _Speculative Everything : Design, Fiction, and Social Dreaming_. Cambridge, Massachusetts; London, England: The MIT Press.
+
 
 _Optional materials_
 
-
-
-*   Guess, Andrew, Benjamin Lyons, Brendan Nyhan, and Jason Reifler. 2018. “Avoiding the Echo Chamber about Echo Chambers.” Medium. February 13, 2018. [https://medium.com/trust-media-and-democracy/avoiding-the-echo-chamber-about-echo-chambers-6e1f1a1a0f39](https://medium.com/trust-media-and-democracy/avoiding-the-echo-chamber-about-echo-chambers-6e1f1a1a0f39).
+*   Excerpt from Dunne, Anthony, and Fiona Raby. 2013. _Speculative Everything : Design, Fiction, and Social Dreaming_. Cambridge, Massachusetts; London, England: The MIT Press.
