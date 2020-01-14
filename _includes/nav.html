@@ -2,9 +2,9 @@
   <p>
     <a href="{{ "/" | prepend: site.baseurl }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
     <a href="{{ "/syllabus" | prepend: site.baseurl }}" {% if page.url == '/syllabus.html' %}class="active"{% endif %}>Syllabus</a>
-    <!-- <a href="{{ "/assignments" | prepend: site.baseurl }}" {% if page.url == '/assignments.html' %}class="active"{% endif %}>Assignments</a> -->
-    <!-- <a href="{{ "/policies" | prepend: site.baseurl }}" {% if page.url == '/policies.html' %}class="active"{% endif %}>Policies</a> -->
     <a>Assignments</a>
-    <a>Policies</a>
+    <!-- <a href="{{ "/assignments" | prepend: site.baseurl }}" {% if page.url == '/assignments.html' %}class="active"{% endif %}>Assignments</a> -->
+    <a href="{{ "/policies" | prepend: site.baseurl }}" {% if page.url == '/policies.html' %}class="active"{% endif %}>Policies</a>
+
   </p>
 </nav>
