@@ -136,6 +136,8 @@ _Optional materials_
 
 **Week 8 (March 12) \| Race**
 
+Guest lecture: Ruha Benjamin (pre-recorded)
+
 _Required materials_
 
 
