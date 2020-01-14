@@ -136,11 +136,6 @@ _Optional materials_
 
 _Required materials_
 
-YOUNG-HAE CHANG HEAVY INDUSTRIES. 2008. “AH.” yhchang.com. 2008. https://www.yhchang.com/AH_V.html.
-Excerpt from Jerng, Mark C. 2018. Racial Worldmaking: The Power of Popular Fiction. New York: Fordham University Press.
-‌Gilliard, Chris. 2019. “Friction-Free Racism.” Real Life. October 15, 2019. https://reallifemag.com/friction-free-racism/.
-Excerpt from Ruha Benjamin. 2019. Race After Technology: Abolitionist Tools for the New Jim Code. Polity Books.
-
 
 *   YOUNG-HAE CHANG HEAVY INDUSTRIES. 2008. “AH.” yhchang.com. 2008. [https://www.yhchang.com/AH_V.html](https://www.yhchang.com/AH_V.html).
 *   Excerpt from Jerng, Mark C. 2018. _Racial Worldmaking: The Power of Popular Fiction_. New York: Fordham University Press.
