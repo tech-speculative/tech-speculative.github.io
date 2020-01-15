@@ -24,6 +24,8 @@ _Optional materials_
 
 **Week 2 (January 23) \| Reality, or That Which Is Quantifiable **
 
+Assignment: “Create a Dataset”
+
 _Required materials_
 
 
@@ -64,13 +66,17 @@ _Optional materials_
 
 **Week 4 (February 6) \| Sameness, or Minimalist Malaise**
 
+Due: “Create a Dataset”
+
+Assignment: “Op-ed From the Future”
+
 _Required materials_
 
 
 *   Chiang, Ted. 2002. “Liking What You See: A Documentary.”
 *   Jakober, Marie. 2008. “The Continuum of Meaning: A Reflection on Speculative Fiction and Society.” In _The Influence of Imagination: Essays on Science Fiction and Fantasy as Agents of Social Change._ Jefferson, N.C.: Mcfarland & Co. PDF on Canvas.
 *   Chayka, Kyle. 2018. “Style Is an Algorithm.” Vox. April 17, 2018. [https://www.vox.com/2018/4/17/17219166/fashion-style-algorithm-amazon-echo-look](https://www.vox.com/2018/4/17/17219166/fashion-style-algorithm-amazon-echo-look).
-
+*   Shane, Janelle. 2019. “We Shouldn’t Bother the Feral Scooters of Central Park”. https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html.
 
 _Optional materials_
 
@@ -102,6 +108,8 @@ _Optional materials_
 
 **Week 6 (February 27) \| Hidden Labor, Invisible Infrastructure**
 
+Due: “Op-ed From the Future”
+
 _Required materials_
 
 *   Ishiguro, Kazuo. 2005. _Never Let Me Go_.
@@ -118,6 +126,8 @@ _Optional materials_
 
 
 **Week 7 (March 5) \| Capitalism Ex Machina**
+
+Assignment: “Teachable Machine”
 
 _Required materials_
 
@@ -140,6 +150,10 @@ _Optional materials_
 
 Guest lecture: Ruha Benjamin (pre-recorded)
 
+Due: “Teachable Machine”
+
+Assignment: Final Project Proposal
+
 _Required materials_
 
 
@@ -159,6 +173,8 @@ _Optional materials_
 **March 14-23 \| Spring Recess**
 
 **Week 9 (March 26) \| Gender**
+
+Due: Final Project Proposal
 
 _Required materials_
 
@@ -224,6 +240,8 @@ _Optional materials_
 *   Excerpt from Hayles, N. Katherine. 2010. _How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics_. Chicago: Univ. of Chicago Press.
 
 **Week 13 (April 23) \| Machine Yearning**
+
+Due: Final Project
 
 _Required materials_
 
