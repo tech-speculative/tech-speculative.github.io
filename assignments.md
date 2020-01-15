@@ -13,11 +13,11 @@ Mimi Onuoha’s art project “The Library of Missing Datasets” poses a provoc
 
 ### Op-ed from the Future (Due Week 6, 10%)
 
-It’s the year 2059. In the style of The New York Times series Op-Eds From the Future, write a 500-1200 word op-ed about a technology that has become pervasive in society and the risks and benefits associated with it. Example: [https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html].
+It’s the year 2059. In the style of The New York Times series Op-Eds From the Future, write a 500-1200 word op-ed about a technology that has become pervasive in society and the risks and benefits associated with it. Example: [https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html](https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html).
 
 ### Reflections on Teachable Machine (Due Week 8, 10%)
 
- Google’s Teachable Machine ([https://teachablemachine.withgoogle.com/]) is an online application that allows you to train a simple image-recognition AI without coding. Teach the machine to recognize some simple facial states or hand gestures and then write an approx. 500-word reflection on the process.
+ Google’s [Teachable Machine](https://teachablemachine.withgoogle.com/) is an online application that allows you to train a simple image-recognition AI without coding. Teach the machine to recognize some simple facial states or hand gestures and then write an approx. 500-word reflection on the process.
 
 ### Final Project Proposal (Due Week 9, 15%)
 

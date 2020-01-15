@@ -76,7 +76,7 @@ _Required materials_
 *   Chiang, Ted. 2002. “Liking What You See: A Documentary.”
 *   Jakober, Marie. 2008. “The Continuum of Meaning: A Reflection on Speculative Fiction and Society.” In _The Influence of Imagination: Essays on Science Fiction and Fantasy as Agents of Social Change._ Jefferson, N.C.: Mcfarland & Co. PDF on Canvas.
 *   Chayka, Kyle. 2018. “Style Is an Algorithm.” Vox. April 17, 2018. [https://www.vox.com/2018/4/17/17219166/fashion-style-algorithm-amazon-echo-look](https://www.vox.com/2018/4/17/17219166/fashion-style-algorithm-amazon-echo-look).
-*   Shane, Janelle. 2019. “We Shouldn’t Bother the Feral Scooters of Central Park”. [https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html].
+*   Shane, Janelle. 2019. “We Shouldn’t Bother the Feral Scooters of Central Park”. [https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html](https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html).
 
 _Optional materials_
 
@@ -91,16 +91,16 @@ _Optional materials_
 _Required materials_
 
 *   Liu, Ken. 2015. “The Perfect Match.”
-*   Harvey, Adam. 2017. “CV Dazzle.” [https://cvdazzle.com/]
+*   Harvey, Adam. 2017. “CV Dazzle.” [https://cvdazzle.com/](https://cvdazzle.com/)
 *   “The Perpetual Line-Up: Unregulated Police Face Recognition in America.” 2016. Georgetown Law Center on Privacy & Technology. [https://www.perpetuallineup.org/](https://www.perpetuallineup.org/).
 *   Burrington, Ingrid. 2018. “A Non-Exhaustive Taxonomy of Tools of Data-Driven Policing.” Urban Omnibus. November 28, 2018. [https://urbanomnibus.net/2018/06/non-exhaustive-taxonomy-tools-data-driven-policing/](https://urbanomnibus.net/2018/06/non-exhaustive-taxonomy-tools-data-driven-policing/).
 
 
 _Optional materials_
 
-*    “Algorithmic Justice League.” [https://www.ajlunited.org/].
+*    “Algorithmic Justice League.” [https://www.ajlunited.org/](https://www.ajlunited.org/).
 *    Excerpt from Scott, James C. 1998. _Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed_. New Haven: Yale University Press.
-*    Lee, Crystal and Zong, Jonathan. 2019. “Consent is Not an Ethical Rubber Stamp.” Slate. [https://slate.com/technology/2019/08/consent-facial-recognition-data-privacy-technology.html]
+*    Lee, Crystal and Zong, Jonathan. 2019. “Consent is Not an Ethical Rubber Stamp.” Slate. [https://slate.com/technology/2019/08/consent-facial-recognition-data-privacy-technology.html](https://slate.com/technology/2019/08/consent-facial-recognition-data-privacy-technology.html)
 
 
 
@@ -114,7 +114,7 @@ _Required materials_
 
 *   Ishiguro, Kazuo. 2005. _Never Let Me Go_.
 *   Roberts, Sarah T. 2019. Chapter 2 “Understanding Commercial Content Moderation” from _Behind the Screen: Content Moderation in the Shadows of Social Media._ Yale University Press.
-*   Crawford, Kate, and Vladan Joler. 2018. Consider the chart (reading the essay is not required) in “Anatomy of an AI System.” 2018. [https://anatomyof.ai/].
+*   Crawford, Kate, and Vladan Joler. 2018. Consider the chart (reading the essay is not required) in “Anatomy of an AI System.” 2018. [https://anatomyof.ai/](https://anatomyof.ai/).
 *   Irani, Lilly C., and M. Six Silberman. 2013. “Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk.” _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI ’13_. [https://doi.org/10.1145/2470654.2470742](https://doi.org/10.1145/2470654.2470742).
 
 
@@ -216,7 +216,7 @@ _Required materials_
 *   Netflix. _Black Mirror_. “Nosedive” (S3E1). In-class viewing.
 *   Chiang, Ted. 2013. “The Truth of Fact, the Truth of Feeling.”‌
 *   Horning, Rob. 2017. “Sick of Myself.” Real Life. May 17, 2017. [https://reallifemag.com/sick-of-myself/](https://reallifemag.com/sick-of-myself/).
-*   Matias, J. Nathan. 2017. “The Real Name Fallacy.” [https://coralproject.net/blog/the-real-name-fallacy/]
+*   Matias, J. Nathan. 2017. “The Real Name Fallacy.” [https://coralproject.net/blog/the-real-name-fallacy/](https://coralproject.net/blog/the-real-name-fallacy/)
 
 _Optional materials_
 
