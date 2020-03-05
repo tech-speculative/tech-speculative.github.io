@@ -9,15 +9,24 @@ Students will be responsible for submitting a question or a point of reflection 
 
 ### Create a Dataset (Due Week 4, 10%)
 
-Mimi Onuoha’s art project “The Library of Missing Datasets” poses a provocative idea: what gets counted counts. In other words, the things that people choose to measure reflect what they value. In her project, she documents missing datasets: nobody has chosen to systematically measure gun trace data, or the cause of 2015 black church fires, etc. Think of a dataset that doesn’t exist, and create it. This can be anything from measuring yourself with a Fitbit for a certain amount of time, or taking the temperature of a patch of grass outside your room for a week, to doing research on mass shootings or adding evidence to other national conversations. You will present the dataset briefly and submit an approx. 500-word reflection on the process of creating it.
+Mimi Onuoha’s art project “The Library of Missing Datasets” poses a provocative idea: what gets counted counts. In other words, the things that people choose to measure reflect what they value. In her project, she documents missing datasets: nobody has chosen to systematically measure gun trace data, or the cause of 2015 black church fires, etc.
+
+Think of a dataset that doesn’t exist, and create it. This can be anything from measuring yourself with a Fitbit for a certain amount of time, or taking the temperature of a patch of grass outside your room for a week, to doing research on mass shootings or adding evidence to other national conversations. There is no requirement around the time-span for the dataset. E.g., ["Dogs of Cambridge"](https://data.cambridgema.gov/General-Government/Dogs-of-Cambridge/sckh-3xyx/data) takes a different approach to data collection vis-a-vis that of taking the temperature of a patch of grass outside your room for a week.
+
+You will submit both the dataset and an approx. 500-word reflection on the process of creating it.
 
 ### Op-ed from the Future (Due Week 6, 10%)
 
-It’s the year 2059. In the style of The New York Times series Op-Eds From the Future, write a 500-1200 word op-ed about a technology that has become pervasive in society and the risks and benefits associated with it. Example: [https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html](https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html).
+It’s the year 2050, 2070, or 2120. In the style of The New York Times series Op-Eds From the Future, write a 500-1200 word op-ed about a technology that has become pervasive in society and the risks and benefits associated with it. Example: [https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html](https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html).
 
 ### Reflections on Teachable Machine (Due Week 8, 10%)
 
- Google’s [Teachable Machine](https://teachablemachine.withgoogle.com/) is an online application that allows you to train a simple image-recognition AI without coding. Teach the machine to recognize some simple facial states or hand gestures and then write an approx. 500-word reflection on the process.
+Google’s [Teachable Machine](https://teachablemachine.withgoogle.com/) is an online application that allows you to train a simple image-recognition AI without coding. Train three machine learning models using the following guidelines:
+- Train a model on a biased training dataset. In other words, use many more examples in one class than the others.
+- Test your model on data that is substantively different from your training data. For example, train a model on your own face and then test it on your friend.
+- Get creative, and make an open-ended model! For example, someone used Teachable Machine to train a model that detects when they're touching their face, and made an app to let others do the same (https://donottouchyourface.com/). Notice the irony of making a dataset of touching your face in order to detect it in the future. Also notice the distinction between detecting something that has happened and preventing that thing.
+
+Write an approximately 500-word reflection on the process. The reflection can be open ended, but here are some example questions that can guide your thinking. What was interesting about the process of posing for data collection to act out different classes? What was interesting about choosing what the classes were, and what got left out? How does the classifier behave when the input doesn't fit into any of the classes? What surprised you about the capabilities of the model you trained? What were its limitations?
 
 ### Final Project Proposal (Due Week 9, 15%)
 
