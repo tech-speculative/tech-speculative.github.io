@@ -177,15 +177,16 @@ Due: Final Project Proposal
 
 _Required materials_
 
-*   Jonze, Spike. 2013. _Her._ (Will watch an excerpt in class.)
-*   Edmonds, Samantha. 2019. “Reading Feminist Futurism in the Age of the ‘Female’ Virtual Assistant.” Literary Hub. January 3, 2019. [https://lithub.com/reading-feminist-futurism-in-the-age-of-the-female-virtual-assistant/](https://lithub.com/reading-feminist-futurism-in-the-age-of-the-female-virtual-assistant/).
-*   Geffen, Sasha. 2019. “Spoken For.” Real Life. 2019. [https://reallifemag.com/spoken-for/](https://reallifemag.com/spoken-for/).
+*   Morley, Madeleine. 2020. “What Would a Feminist Alexa Look, or Rather Sound, Like?” AIGA Eye on Design.  [https://eyeondesign.aiga.org/what-would-a-feminist-alexa-look-or-rather-sound-like/](https://eyeondesign.aiga.org/what-would-a-feminist-alexa-look-or-rather-sound-like/)
+*   Edmonds, Samantha. 2019. “Reading Feminist Futurism in the Age of the ‘Female’ Virtual Assistant.” Literary Hub. [https://lithub.com/reading-feminist-futurism-in-the-age-of-the-female-virtual-assistant/](https://lithub.com/reading-feminist-futurism-in-the-age-of-the-female-virtual-assistant/).
+*   Geffen, Sasha. 2019. “Spoken For.” Real Life. [https://reallifemag.com/spoken-for/](https://reallifemag.com/spoken-for/).
 *   Keyes, Os. 2018. “The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition.” _Proceedings of the ACM on Human-Computer Interaction 2 (CSCW): 1–22_. [https://doi.org/10.1145/3274357](https://doi.org/10.1145/3274357).‌
 
 _Optional materials_
 
 
 
+*   Jonze, Spike. 2013. _Her._
 *   Bivens, Rena. “The Gender Binary Will Not Be Deprogrammed: Ten Years of Coding Gender on Facebook.” _New Media & Society 19, no. 6 (June 2017): 880–98_. doi:10.1177/1461444815621527.
 *   Haraway, Donna. 1991. “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century” in _Simians, Cyborgs, and Women : The Reinvention of Nature_.
 
@@ -194,15 +195,16 @@ _Optional materials_
 
 _Required materials_
 
-*   LeGuin, Ursula. 1974. The Dispossessed.
 *   Clifton, Brian, Sam Lavigne, and Francis Tseng. 2017. “White Collar Crime Risk Zones.” thenewinquiry.com. [https://whitecollar.thenewinquiry.com/](https://whitecollar.thenewinquiry.com/).
+*   “Automating Inequality” Interview with Virginia Eubanks. The Open Mind. December 5, 2017. [https://www.youtube.com/watch?v=Avxm7JYjk8M](https://www.youtube.com/watch?v=Avxm7JYjk8M).
 *   Misra, Tanvi. 2018. “The Rise of 'Digital Poorhouses'.” CityLab. February 15, 2018. [https://www.citylab.com/equity/2018/02/the-rise-of-digital-poorhouses/552161/](https://www.citylab.com/equity/2018/02/the-rise-of-digital-poorhouses/552161/).
-*   Excerpt from Virginia Eubanks. 2018. _Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor_.
 
 
 
 _Optional materials_
 
+*   LeGuin, Ursula. 1974. The Dispossessed.
+*   Excerpt from Virginia Eubanks. 2018. _Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor_.
 *   Ludwig, Sarah. 2015. “Credit Scores in America Perpetuate Racial Injustice. Here’s How.” The Guardian. October 13, 2015. [https://www.theguardian.com/commentisfree/2015/oct/13/your-credit-score-is-racist-heres-why](https://www.theguardian.com/commentisfree/2015/oct/13/your-credit-score-is-racist-heres-why).
 *   Matsakis, Louise. 2019. “How the West Got China’s Social Credit System Wrong.” WIRED. July 29, 2019. [https://www.wired.com/story/china-social-credit-score-system/](https://www.wired.com/story/china-social-credit-score-system/).
 
@@ -212,14 +214,14 @@ _Optional materials_
 
 _Required materials_
 
-*   Netflix. _Black Mirror_. “Nosedive” (S3E1). In-class viewing.
+*   Netflix. _Black Mirror_. “Nosedive” (S3E1).
 *   Chiang, Ted. 2013. “The Truth of Fact, the Truth of Feeling.”‌
 *   Horning, Rob. 2017. “Sick of Myself.” Real Life. May 17, 2017. [https://reallifemag.com/sick-of-myself/](https://reallifemag.com/sick-of-myself/).
 *   Matias, J. Nathan. 2017. “The Real Name Fallacy.” [https://coralproject.net/blog/the-real-name-fallacy/](https://coralproject.net/blog/the-real-name-fallacy/)
+*   Reeve, Elspeth. 2016. “The Secret Lives of Tumblr Teens.” The New Republic. February 17, 2016. [https://newrepublic.com/article/129002/secret-lives-tumblr-teens](https://newrepublic.com/article/129002/secret-lives-tumblr-teens).
 
 _Optional materials_
 
-*   Reeve, Elspeth. 2016. “The Secret Lives of Tumblr Teens.” The New Republic. February 17, 2016. [https://newrepublic.com/article/129002/secret-lives-tumblr-teens](https://newrepublic.com/article/129002/secret-lives-tumblr-teens).
 *   Haimson, Oliver L., and Anna Lauren Hoffmann. 2016. “Constructing and Enforcing ‘Authentic’ Identity Online: Facebook, Real Names, and Non-Normative Identities.” First Monday 21 (6). [https://doi.org/10.5210/fm.v21i6.6791](https://doi.org/10.5210/fm.v21i6.6791).
 
 
@@ -246,11 +248,11 @@ _Required materials_
 
 
 
-*   Hall, Louisa. 2015. _Speak_. 
 *   Hong, Sun-ha. 2019. “Smart Machines & Enlightenment Dreams.” March 26, 2019. [https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/](https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/).
 *   boyd, danah. 2018. “You Think You Want Media Literacy… Do You?” [http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html](http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html).
 
 
 _Optional materials_
 
+*   Hall, Louisa. 2015. _Speak_. 
 *   Excerpt from Dunne, Anthony, and Fiona Raby. 2013. _Speculative Everything : Design, Fiction, and Social Dreaming_. Cambridge, Massachusetts; London, England: The MIT Press.
