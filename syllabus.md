@@ -246,13 +246,13 @@ Due: Final Project
 
 _Required materials_
 
-
-
-*   Hong, Sun-ha. 2019. “Smart Machines & Enlightenment Dreams.” March 26, 2019. [https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/](https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/).
-*   boyd, danah. 2018. “You Think You Want Media Literacy… Do You?” [http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html](http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html).
+*   Dunne, Anthony, and Fiona Raby. 2013. Chapter 1. Beyond Radical Design? from _Speculative Everything : Design, Fiction, and Social Dreaming_. Cambridge, Massachusetts; London, England: The MIT Press.
 
 
 _Optional materials_
 
 *   Hall, Louisa. 2015. _Speak_. 
-*   Excerpt from Dunne, Anthony, and Fiona Raby. 2013. _Speculative Everything : Design, Fiction, and Social Dreaming_. Cambridge, Massachusetts; London, England: The MIT Press.
+*   Hong, Sun-ha. 2019. “Smart Machines & Enlightenment Dreams.” March 26, 2019. [https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/](https://sunhahong.wordpress.com/2019/03/26/enlightenment-dreams-1/).
+*   boyd, danah. 2018. “You Think You Want Media Literacy… Do You?” [http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html](http://www.zephoria.org/thoughts/archives/2018/03/09/you-think-you-want-media-literacy-do-you.html).
+* Agre, Philip. 1997. Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI. [https://pages.gseis.ucla.edu/faculty/agre/critical.html](https://pages.gseis.ucla.edu/faculty/agre/critical.html)
+
