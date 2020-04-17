@@ -231,7 +231,7 @@ _Required materials_
 
 
 *   Liu, Ken. 2011. “Simulacrum.” [http://www.lightspeedmagazine.com/fiction/simulacrum/](http://www.lightspeedmagazine.com/fiction/simulacrum/).
-*   Link, Kelly. 2015. “The New Boyfriend;” “Two Houses.”
+*   Link, Kelly. 2015. “The New Boyfriend”; “Two Houses”; “Valley of Girls”
 *   Cole, Samantha. 2018. “Deepfakes Were Created As a Way to Own Women’s Bodies—We Can’t Forget That.” Vice. June 18, 2018. [https://broadly.vice.com/en_us/article/nekqmd/deepfake-porn-origins-sexism-reddit-v25n2](https://broadly.vice.com/en_us/article/nekqmd/deepfake-porn-origins-sexism-reddit-v25n2).
 
 _Optional materials_
